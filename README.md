@@ -1,6 +1,6 @@
 # Hi there, I'm Tisha Jain 👋
 
-I am a passionate **Software Engineering Undergraduate** with a focus on **DevOps**, seeking opportunities to work in challenging environments that will foster my growth and help me contribute to cutting-edge software engineering projects. I am highly motivated to learn and contribute to innovative solutions that shape the future of technology.
+I am a passionate **Software Engineering Undergraduate** with a focus on **DevOps** and **Competitive programming**, seeking opportunities to work in challenging environments that will foster my growth and help me contribute to cutting-edge software engineering projects. I am highly motivated to learn and contribute to innovative solutions that shape the future of technology.
 
 ## Contact Me 📫
 - **Email**: [jaintisha038@gmail.com](mailto:jaintisha038@gmail.com)
