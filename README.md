@@ -4,7 +4,6 @@ I am a passionate **Software Engineering Undergraduate** with a focus on **DevOp
 
 ## Contact Me 📫
 - **Email**: [jaintisha038@gmail.com](mailto:jaintisha038@gmail.com)
-- **Phone**: +91-8949176063
 - **GitHub**: [Tisha-byte](https://github.com/Tisha-byte)
 - **LinkedIn**: [Tisha Jain](https://www.linkedin.com/in/tisha-jain-b57063234/)
 
